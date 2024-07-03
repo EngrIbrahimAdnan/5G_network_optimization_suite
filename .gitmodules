@@ -1,3 +1,4 @@
 [submodule "5G_network_optimization_suite_private"]
 	path = 5G_network_optimization_suite_private
 	url = https://github.com/EngrIbrahimAdnan/5G_network_optimization_suite_private.git
+    	branch = main
